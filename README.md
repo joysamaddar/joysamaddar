@@ -8,6 +8,9 @@ I make and break stuff on the internet.
 Socials
 </h3>
 <p align="center">
+  <a href="https://0xjoy.tech/">
+    <img src="https://img.shields.io/badge/-Portfolio-3b82f6?style=for-the-badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/joy-samaddar/">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
